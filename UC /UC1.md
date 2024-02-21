@@ -10,12 +10,11 @@ The APP returns a view of available matches. The AU can filter the matches based
 
 When consensus is reached about the match details the match is approved by both parties and removed from the list of matches. All match participants receive a notification with information about the match.
 
-# UC 1 Find match (Passive)
-Actors: Passive & Active searchers
-
-Secondary actors: None
-
-A user creates a match based on sport, competetiveness, age, gender, date, time and venue, writes additional info for the OTEAM to view.
+# UC_02 Find match (Passive)
+- **Actors:** Passive & Active searchers
+- **Secondary actors:** None
+### DESCRIPTION:
+A user creates a match based on a preferred sport. The options covers “Type of Sport”, “Casual/Competitive”, "Age", "Gender", "Date/Time" and "Location/Venue" and writes additional info for the Active Participant(s) to view.
 The user the receives 
 
 Outcome: To hold mødes til en træningskamp
