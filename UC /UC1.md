@@ -1,9 +1,10 @@
 
-# UC 1 Opret træningskamp
-Primær aktør: brugerne
+# UC 1 Find match (Passive)
+Actors: Passive & Active searchers
 
-Sekundær aktør: spillested
+Secondary actors: None
 
-Brief: En bruger opretter en træningskamp for at finde en modstander. Et match bliver fundet og kommunikation oprettes mellem parterne.
+A user creates a match based on sport, competetiveness, age, gender, date, time and venue, writes additional info for the OTEAM to view.
+The user the receives 
 
 Outcome: To hold mødes til en træningskamp
