@@ -17,4 +17,3 @@ When consensus is reached about the match details the match is approved by both 
 A user creates a match based on a preferred sport. The options covers “Type of Sport”, “Casual/Competitive”, "Age", "Gender", "Date/Time" and "Location/Venue" and writes additional info for the Active Participant(s) to view.
 The user the receives 
 
-Outcome: To hold mødes til en træningskamp
